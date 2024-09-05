@@ -2,7 +2,7 @@
 
 ## 📃 Problema de alocação de serviços para bombeiros. 
 
-Cada entrada tem quantos serviços cada bombeiro vai trabalhar na semana por cada tipo de posto (Incêncio, Socorro, Telefone).
+Cada entrada tem quantos serviços cada bombeiro vai trabalhar na semana por cada tipo de posto (Incêndio, Socorro, Telefone).
 
 
 ### 1. Função parse_input
